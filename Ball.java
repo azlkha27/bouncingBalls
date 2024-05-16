@@ -8,6 +8,9 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Ball extends Actor
 {
+    // MS Wang was HERE~~~~
+    // Hi! 
+    // This is a change that Ms. Wang made Yay!!!
     private int randomX;
     private int randomY;
     public Ball(){
